@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="link da imagem do octacat">
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/b-bardi/b-bardi/blob/main/octocat-1698880197879.png">
 
 </br>
 </br>
